@@ -22,8 +22,8 @@ import androidx.compose.ui.unit.sp
 import com.mrapps.batteryinfocompose.R
 import com.mrapps.batteryinfocompose.components.HomeButton
 import com.mrapps.batteryinfocompose.ui.theme.colorPrimary
-import com.mrapps.batteryinfocompose.ui.theme.component.CustomOutlinedButton
-import com.mrapps.batteryinfocompose.ui.theme.component.ElevatedCards
+import com.mrapps.batteryinfocompose.components.CustomOutlinedButton
+import com.mrapps.batteryinfocompose.components.ElevatedCards
 import com.mrapps.batteryinfocompose.ui.theme.textColor
 
 @OptIn(ExperimentalMaterial3Api::class)

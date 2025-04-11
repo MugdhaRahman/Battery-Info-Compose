@@ -1,4 +1,4 @@
-package com.mrapps.batteryinfocompose.ui.theme.component
+package com.mrapps.batteryinfocompose.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxHeight
